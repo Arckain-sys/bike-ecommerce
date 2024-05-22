@@ -1,19 +1,14 @@
-# Next.js + Tailwind CSS Example
+# Swell / Next.js App
 
-Tailwind CSS is integrated into the `create-next-app` CLI, which supports TypeScript and JavaScript, as well as the App Router (`app/`) and the pages directory `pages/`.
+Learn how to create a headless ecommerce application using Swell and Next.js
 
-## How to use
+## Built With
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap a project preconfigured with Tailwind CSS:
+- [Swell](https://swell.is/)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Next.js](https://nextjs.org)
+- [Vercel](https://vercel.com)
 
-```bash
-npx create-next-app --tailwind with-tailwindcss-app
-```
+## Deploy with Vercel
 
-```bash
-yarn create next-app --tailwind with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --tailwind with-tailwindcss-app
-```
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnutlope%2Fnextjs-swell&env=NEXT_PUBLIC_SWELL_STORE_ID,NEXT_PUBLIC_SWELL_PUBLIC_KEY,REVALIDATE_SECRET&envDescription=API%20Keys%20from%20Swell%20needed%20to%20run%20this%20application.)
