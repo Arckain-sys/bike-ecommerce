@@ -6,7 +6,7 @@ export default function Layout({ children }) {
         <p>Powered by Next.js, Swell, and Netlify </p>
         <span>|</span>
         <a
-          href="https://github.com/Nutlope/nextjs-swell"
+          href="https://github.com/Arckain-sys/bike-ecommerce"
           className="font-medium text-red-500 hover:text-red-600"
         >
           Source code
